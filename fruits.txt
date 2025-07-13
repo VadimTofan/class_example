@@ -1,3 +1,5 @@
 apple
-banana
+pear
 mango
+pineapple
+papaya
